@@ -3,4 +3,4 @@ defaultPackage: dev.yasarb
 testFramework: junit
 sourceLanguage: kotlin
 buildTool: gradle
-features: [ annotation-api, app-name, gradle, http-client, junit, kotlin, kotlin-application, kotlin-build, log4j2, micronaut-build, netty-server, openapi, readme, shade, yaml ]
+features: [ annotation-api, app-name, gradle, http-client, h2, jdbc-hikari, junit, kotlin, kotlin-application, kotlin-build, log4j2, micronaut-build, netty-server, openapi, readme, shade, yaml ]
